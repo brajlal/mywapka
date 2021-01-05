@@ -1,0 +1,114 @@
+.google-search {
+    min-width: 300px;
+}
+
+.gsc-control-cse {
+    padding: 3px 3px 0 !important;
+}
+
+.gsc-search-button-v2 {
+    padding: 10px 27px !important;
+}
+
+.gsc-input {
+    padding-right: 0 !important;
+}
+
+/******* Adsense Starts Here *******/
+
+/* .mw-adsense {
+    display: none;
+} */
+
+.mw-fs-10 {
+    font-size: 10px;
+}
+
+.mw-fs-13 {
+    font-size: 13px;
+}
+
+.mw-nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+}
+
+.mw-nav-scroller .mw-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    font-size: .875rem;
+}
+
+.mw-sidebar-right {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.mw-ext {
+	color: #fd7317
+}
+
+.mw-comt {
+	color: #949494;
+	/* color: #99cc00; */
+}
+
+.mw-func {
+	color: #f0469b
+}
+
+.mw-str {
+	color: #0aa93f
+}
+
+.mw-int {
+	color: #e06715
+}
+
+.mw-echo {
+	color: #35127a
+}
+
+.mw-html {
+	color: #d73038
+}
+.mw-err {
+	color: #ff0000
+}
+
+.mw-gold {
+	color: #ffcc00;
+}
+
+.mw-var {
+	color: #2bb6b6
+}
+
+.mw-lsv {
+	color: #3b0f76
+}
+
+.mw-cons {
+	color: #dd3636
+}
+
+.mw-echo-demo{
+	color: #00ffff;
+
+}
